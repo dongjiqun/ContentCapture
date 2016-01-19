@@ -1,0 +1,14 @@
+{
+  "name": "LeetCodeProblemList",
+  "description": "自动下载LeetCode上全部题目的小程序",
+  "version": "0.0.1",
+  "author": {
+    "name": "我是喵啊喵",
+    "email": "dongjq123@gmail.com"
+  },
+  "dependencies": {
+    "jquery": "*",
+    "jsdom": "*",
+    "request": "*"
+  }
+}
